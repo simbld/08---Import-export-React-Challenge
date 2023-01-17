@@ -3,7 +3,7 @@ import Contact from './Components/Contact';
 
 function App() {
   return (
-    <div>
+    <div className="titre-container">
       <h1 className="text-center">My contacts list 📱</h1>
 
       <div>
